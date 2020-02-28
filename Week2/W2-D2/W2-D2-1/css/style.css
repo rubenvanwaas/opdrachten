@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.card {
+    display: flex;
+    margin-bottom: 25px;
+    padding: 40px;
+
+}
+
+img {
+    width: 400px;
+    height: 200px;
+    background-size: cover;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    line-height: 1.55;
+}
+
+.text {
+    margin-left: 50px;
+}
+
+.container {
+    max-width: 80%;
+}
